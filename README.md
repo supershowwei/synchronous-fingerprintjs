@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is a fork of [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs). I needed a synchronous version of FingerprintJS so that fingerprint gernerated in &lt;head&gt;. Synchronous FingerprintJS removed following asynchronous factors of fingerprint generating - `fonts`, `domBlockers`, `fontPreferences`, `audio`, `screenFrame`.
+This is a fork of [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs). I needed a synchronous version of FingerprintJS so that fingerprint generated in &lt;head&gt;. Synchronous FingerprintJS removed following asynchronous factors of fingerprint generating - `fonts`, `domBlockers`, `fontPreferences`, `audio`, `screenFrame`.
 
 ### Usage
 
