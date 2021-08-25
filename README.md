@@ -38,7 +38,7 @@ This is a fork of [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs
 </html>
 ```
 
-See https://github.com/Valve/fingerprintjs for more info.
+See https://github.com/fingerprintjs/fingerprintjs for more info.
 
 
 
